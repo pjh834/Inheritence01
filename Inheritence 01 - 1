@@ -1,0 +1,23 @@
+In the real world - Parents inherit to child (Child doesn't have a choice for inheritence)
+In the Java world - Child class can choose parent class to inherit parents' field and methods
+
+----------------
+- Parent class -
+-    Field     -
+-    Method    -
+----------------
+
+
+public class parent extends child 
+
+
+-------------------------  
+-     Child class       -
+-    Parent's Field     -
+-    Parent's Method    -   
+-    Child Field        -  
+-    Child Method       -
+-------------------------
+
+Example
+-------------------------
